@@ -4,7 +4,7 @@
     "url": "https://selfhome.nsupdate.info",
     "icon": "https://favicons.githubusercontent.com/selfhome.nsupdate.info",
     "slug": "pi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 396,
     "timeDay": 356,
     "timeWeek": 385,
-    "timeMonth": 369,
+    "timeMonth": 370,
     "timeYear": 396,
     "dailyMinutesDown": {}
   },
